@@ -1,4 +1,4 @@
-# Minecraft Server Checker
+# IP Port Scanner
 Simple python port scanner that it's saving every port open on a txt file based on ```{ip}_port_scan_results.txt``` and updating it everytime a open port got found
 
 # Getting Started
